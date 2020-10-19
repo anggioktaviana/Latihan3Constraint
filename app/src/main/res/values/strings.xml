@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan3</string>
+    <string name="selamat_datang_di_pesen_in">Selamat Datang di Pesen.in!</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="todo">TODO</string>
+</resources>
